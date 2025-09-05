@@ -76,8 +76,11 @@ Use prepared statements to secure against SQL injection.
 
 👨‍💻 Author
 Brijesh S D
+
 GitHub: Brijeshsd
+
 LinkedIn: Brijesh S D
 
 📜 License
+
 This project is developed for educational purposes only.
